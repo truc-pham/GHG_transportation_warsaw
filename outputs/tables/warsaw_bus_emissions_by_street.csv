@@ -1,0 +1,645 @@
+street,group,bus_km_per_day,CO2_kg_per_day,NOx_kg_per_day,PM10_g_per_day,rank_in_city
+Modlińska,Rest of the bus network,5841,7006.9,57.18,1778.4,1
+Puławska,Rest of the bus network,5739,6742.5,55.02,1722.9,2
+al. Armii Ludowej,Rest of the bus network,4247,5845.5,47.7,1423,3
+Grochowska,Rest of the bus network,4483,5563.7,45.4,1397.2,4
+Al. Jerozolimskie,Al. Jerozolimskie,6700,5471.2,44.65,1596.1,5
+al. Stanów Zjednoczonych,Rest of the bus network,3340,4596.3,37.51,1118.9,6
+Górczewska,Rest of the bus network,3563,4398.1,35.89,1106.3,7
+Radzymińska,Rest of the bus network,3032,3985.2,32.52,983.4,8
+Światowida,Rest of the bus network,3245,3814.6,31.13,974.5,9
+al. Wilanowska,Rest of the bus network,3400,3812.5,31.11,989.2,10
+Czerniakowska,Rest of the bus network,3240,3793.8,30.96,970.5,11
+Ostrobramska,Rest of the bus network,2741,3594.1,29.33,887.5,12
+Powstańców Śląskich,Rest of the bus network,2935,3504.5,28.6,890.8,13
+Żwirki i Wigury,Rest of the bus network,3970,3087.8,25.2,919.2,14
+al. „Solidarności”,Rest of the bus network,2361,3058.5,24.96,758,15
+Lazurowa,Rest of the bus network,2436,3053.6,24.92,764.4,16
+al. Prymasa Tysiąclecia,Connected street (full length),2604,2971.3,24.25,766.5,17
+Toruńska,Rest of the bus network,2201,2916.6,23.8,718,18
+Wał Miedzeszyński,Rest of the bus network,2286,2674.1,21.82,684.3,19
+Bora-Komorowskiego,Rest of the bus network,2210,2602.9,21.24,664.6,20
+Patriotów,Rest of the bus network,2099,2567.7,20.95,647.7,21
+św. Wincentego,Rest of the bus network,1958,2443.9,19.94,612.7,22
+Łopuszańska,Connected street (full length),1677,2308.2,18.84,561.9,23
+Głębocka,Rest of the bus network,1775,2299.7,18.77,569.9,24
+Św. Bonifacego,Rest of the bus network,1783,2244.4,18.32,561.1,25
+Marsa,Rest of the bus network,1752,2156,17.59,542.8,26
+Płochocińska,Rest of the bus network,1809,2152.9,17.57,547.8,27
+Kondratowicza,Rest of the bus network,1558,1998.9,16.31,496.8,28
+al. Krakowska,Rest of the bus network,1456,1902.1,15.52,470.2,29
+Szaserów,Rest of the bus network,1365,1873.7,15.29,456.5,30
+Połczyńska,Rest of the bus network,1302,1762.6,14.38,431.2,31
+al. Armii Krajowej,Rest of the bus network,1472,1758.5,14.35,446.9,32
+Saska,Rest of the bus network,1611,1721.8,14.05,454.1,33
+Jana Pawła II,Rest of the bus network,1426,1667,13.6,426.7,34
+Ostródzka,Rest of the bus network,1488,1655.9,13.51,430.8,35
+Człuchowska,Rest of the bus network,1280,1636,13.35,407.1,36
+most Łazienkowski,Rest of the bus network,1166,1597.3,13.03,389.3,37
+Wawelska,Rest of the bus network,1127,1554.7,12.69,378.2,38
+Nowoursynowska,Rest of the bus network,1143,1522.2,12.42,374.1,39
+al. Niepodległości,Rest of the bus network,1133,1464.7,11.95,363.2,40
+Targowa,Rest of the bus network,1193,1446.1,11.8,365.8,41
+Powsińska,Rest of the bus network,1446,1441.9,11.77,389.6,42
+Indiry Gandhi,Rest of the bus network,1479,1394.7,11.38,384.7,43
+Chodecka,Rest of the bus network,1057,1385.5,11.31,342.1,44
+Trakt Lubelski,Rest of the bus network,1302,1351,11.02,360,45
+Jagiellońska,Rest of the bus network,1025,1349,11.01,332.7,46
+Woronicza,Rest of the bus network,1386,1342.2,10.95,366.6,47
+Szczęśliwicka,Connected street (full length),1089,1339.7,10.93,337.3,48
+Płowiecka,Rest of the bus network,1057,1328,10.84,332.2,49
+Pułkowa,Rest of the bus network,1114,1324.4,10.81,337.1,50
+Hynka,Rest of the bus network,946,1306.9,10.66,317.8,51
+Grójecka,Connected street (full length),1082,1304.6,10.65,330.6,52
+Wałbrzyska,Rest of the bus network,948,1290.6,10.53,315.1,53
+Marynarska,Rest of the bus network,916,1262,10.3,307.2,54
+Mickiewicza,Rest of the bus network,1183,1238.1,10.1,328.9,55
+Sobieskiego,Rest of the bus network,1971,1216.7,9.93,401.6,56
+al. Reymonta,Rest of the bus network,909,1151.2,9.39,287.2,57
+Rosoła,Rest of the bus network,1140,1150.7,9.39,309.7,58
+Skarbka z Gór,Rest of the bus network,886,1147.3,9.36,284.4,59
+Przyczółkowa,Rest of the bus network,1212,1139.1,9.3,314.5,60
+Radiowa,Rest of the bus network,909,1097.8,8.96,278,61
+Korkowa,Rest of the bus network,912,1095.3,8.94,277.9,62
+al. Lotników,Rest of the bus network,795,1082.8,8.84,264.4,63
+al. KEN,Rest of the bus network,974,1030.4,8.41,272.7,64
+Fieldorfa „Nila”,Rest of the bus network,847,1027.7,8.39,259.9,65
+Trakt Brzeski,Rest of the bus network,774,1021.2,8.33,251.7,66
+Chełmżyńska,Rest of the bus network,770,1017.1,8.3,250.6,67
+Wołoska,Rest of the bus network,899,1014.8,8.28,262.7,68
+Żegańska,Rest of the bus network,820,1001.4,8.17,252.7,69
+Dzieci Warszawy,Rest of the bus network,779,991,8.09,247,70
+al. 4 Czerwca 1989 r.,Rest of the bus network,813,987.9,8.06,249.7,71
+al. Becka,Rest of the bus network,768,986.2,8.05,245,72
+Wysockiego,Rest of the bus network,761,967.5,7.9,241.2,73
+Czecha,Rest of the bus network,733,946.7,7.73,234.9,74
+Marywilska,Rest of the bus network,917,913.8,7.46,247,75
+Krasińskiego,Rest of the bus network,746,891.6,7.28,226.6,76
+Kijowska,Rest of the bus network,753,888.9,7.25,226.8,77
+Sokołowskiego „Grzymały”,Connected street (full length),641,884.5,7.22,215.1,78
+al. Chruściela „Montera”,Rest of the bus network,709,877.7,7.16,220.6,79
+Berensona,Rest of the bus network,697,867.6,7.08,217.7,80
+Dolina Służewiecka,Rest of the bus network,745,864.2,7.05,221.8,81
+Żeromskiego,Rest of the bus network,1094,857.2,6.99,254.4,82
+Bitwy Warszawskiej 1920 r.,Connected street (full length),837,856.6,6.99,229.3,83
+Kasprzaka,Rest of the bus network,748,849.4,6.93,219.5,84
+Arkuszowa,Rest of the bus network,715,848.4,6.92,216.1,85
+Kasprowicza,Rest of the bus network,724,823.7,6.72,212.7,86
+Jana Olbrachta,Rest of the bus network,610,798.6,6.52,197.3,87
+Orląt Lwowskich,Rest of the bus network,607,797.1,6.5,196.8,88
+al. gen. Wittek,Rest of the bus network,658,794.5,6.48,201.2,89
+Waryńskiego,Rest of the bus network,744,787.4,6.43,208.3,90
+Kajki,Rest of the bus network,600,775.2,6.33,192.3,91
+Wrocławska,Rest of the bus network,670,757.9,6.19,196.1,92
+Bolesława Chrobrego,Rest of the bus network,629,745.3,6.08,190,93
+Ryżowa,Connected street (full length),690,743.8,6.07,195.6,94
+1. Praskiego Pułku WP,Rest of the bus network,685,735.1,6,193.6,95
+Ciszewskiego,Rest of the bus network,599,733.1,5.98,184.9,96
+Białołęcka,Rest of the bus network,735,727.7,5.94,197.2,97
+Kleszczowa,Rest of the bus network,532,725.6,5.92,177.1,98
+Wąwozowa,Rest of the bus network,654,717.3,5.85,187.5,99
+al. Dzieci Polskich,Rest of the bus network,591,713.6,5.82,180.7,100
+Branickiego,Rest of the bus network,619,710.8,5.8,183,101
+Emilii Plater,Connected street (full length),562,702.2,5.73,176,102
+Kobiałka,Rest of the bus network,607,702,5.73,180.3,103
+Trocka,Rest of the bus network,565,687.7,5.61,173.7,104
+Warszawska,Rest of the bus network,522,685.2,5.59,169.2,105
+Marymoncka,Rest of the bus network,755,680.3,5.55,190.9,106
+al. Sikorskiego,Rest of the bus network,704,670.4,5.47,184.2,107
+Dickensa,Rest of the bus network,753,666.6,5.44,188.3,108
+Nowaka-Jeziorańskiego,Rest of the bus network,534,665.6,5.43,166.9,109
+Podleśna,Rest of the bus network,590,657.6,5.37,171,110
+Pileckiego,Rest of the bus network,574,656.1,5.35,169.2,111
+Komitetu Obrony Robotników,Rest of the bus network,521,652,5.32,163.3,112
+Przewodowa,Rest of the bus network,591,641.7,5.24,168.3,113
+Rozbrat,Rest of the bus network,522,637.4,5.2,160.9,114
+Łukowska,Rest of the bus network,625,634.6,5.18,170.4,115
+Gwiaździsta,Rest of the bus network,530,632.5,5.16,160.8,116
+Wólczyńska,Rest of the bus network,796,631.8,5.16,186.5,117
+Syta,Rest of the bus network,610,614.7,5.02,165.5,118
+Odyńca,Rest of the bus network,515,603.3,4.92,154.3,119
+Młodzieńcza,Rest of the bus network,431,595.5,4.86,144.8,120
+al. Zieleniecka,Rest of the bus network,474,594.4,4.85,148.8,121
+Płaskowickiej,Rest of the bus network,691,593.9,4.85,169.7,122
+Marszałkowska,Connected street (full length),450,587.8,4.8,145.3,123
+Rzymowskiego,Rest of the bus network,642,579.8,4.73,162.5,124
+Broniewskiego,Rest of the bus network,443,578.8,4.72,143.1,125
+Wyszogrodzka,Rest of the bus network,448,575.9,4.7,143.1,126
+Keniga,Rest of the bus network,427,574.1,4.69,140.7,127
+Łodygowa,Rest of the bus network,433,571.6,4.66,140.9,128
+Dźwigowa,Rest of the bus network,456,569.2,4.64,142.7,129
+Bysławska,Rest of the bus network,515,565,4.61,147.7,130
+Łabiszyńska,Rest of the bus network,499,559.4,4.57,145.1,131
+Racławicka,Rest of the bus network,446,557.6,4.55,139.7,132
+Redutowa,Rest of the bus network,415,557.6,4.55,136.7,133
+Vogla,Rest of the bus network,556,554.4,4.52,149.8,134
+Niemcewicza (elsewhere),Rest of the bus network,480,553.6,4.52,142.3,135
+Zabraniecka,Rest of the bus network,426,549.7,4.49,136.4,136
+Popularna,Connected street (full length),629,549,4.48,156,137
+Wybrzeże Gdyńskie,Rest of the bus network,394,544.3,4.44,132.4,138
+Żupnicza,Rest of the bus network,428,536.5,4.38,134.3,139
+Zamieniecka,Rest of the bus network,487,536,4.37,140,140
+Sokola,Rest of the bus network,395,528.7,4.31,129.8,141
+Zamoyskiego,Rest of the bus network,428,527.1,4.3,132.7,142
+Conrada,Rest of the bus network,898,514.1,4.2,176.1,143
+Poleczki,Rest of the bus network,401,513.2,4.19,127.7,144
+Stryjeńskich,Rest of the bus network,422,512.5,4.18,129.5,145
+Mrówcza,Rest of the bus network,530,508.4,4.15,139.3,146
+al. Polski Walczącej,Rest of the bus network,425,507.2,4.14,128.9,147
+Sławka,Rest of the bus network,379,506.5,4.13,124.4,148
+Paderewskiego,Rest of the bus network,432,499.2,4.07,128.3,149
+pl. Hallera,Rest of the bus network,443,495.2,4.04,128.6,150
+Księcia Ziemowita,Rest of the bus network,463,491.9,4.01,130,151
+Kąty Grodziskie,Rest of the bus network,426,490.6,4,126.2,152
+Gagarina,Rest of the bus network,546,490.6,4,137.8,153
+Armii Krajowej,Rest of the bus network,420,485.3,3.96,124.7,154
+Żelazna,Connected street (full length),414,485,3.96,124.1,155
+Regulska,Rest of the bus network,409,483.6,3.95,123.3,156
+Powązkowska,Rest of the bus network,856,478.8,3.91,165.8,157
+Graniczna,Rest of the bus network,391,477.4,3.9,120.5,158
+Umińskiego,Rest of the bus network,533,471.7,3.85,133.2,159
+Ciołka,Rest of the bus network,377,469.8,3.83,117.8,160
+Mehoffera,Rest of the bus network,595,462.2,3.77,137.7,161
+Sasanki,Rest of the bus network,335,461.5,3.77,112.3,162
+Pawińskiego,Rest of the bus network,423,459,3.75,120.4,163
+Ruskowy Bród,Rest of the bus network,368,459,3.75,115,164
+Kopińska,Rest of the bus network,330,455.5,3.72,110.8,165
+Zwoleńska,Rest of the bus network,413,452.6,3.69,118.3,166
+Modzelewskiego,Rest of the bus network,324,436,3.56,106.8,167
+Bartnicza,Rest of the bus network,337,435.1,3.55,108,168
+Ossowskiego,Rest of the bus network,366,431,3.52,110,169
+jezdnia płn. Dw. Centralnego,Connected street (full length),329,426.9,3.48,105.8,170
+Kaliskiego,Rest of the bus network,344,426.6,3.48,107.1,171
+al. Jana Pawła II,Connected street (full length),375,426.3,3.48,110.1,172
+Bartycka,Rest of the bus network,378,424.5,3.46,110.1,173
+Batorego,Rest of the bus network,335,418.4,3.41,104.9,174
+al. Zjednoczenia,Rest of the bus network,356,418.3,3.41,106.9,175
+Madalińskiego,Rest of the bus network,309,417.9,3.41,102.3,176
+Wolska,Rest of the bus network,401,413.5,3.37,110.4,177
+Obrońców Tobruku,Rest of the bus network,361,412.7,3.37,106.4,178
+Płocka,Rest of the bus network,689,412.3,3.36,138.2,179
+Izbicka,Rest of the bus network,441,408.8,3.34,113.5,180
+Dereniowa,Rest of the bus network,526,408.8,3.34,121.8,181
+pl. Konstytucji,Rest of the bus network,348,407.7,3.33,104.3,182
+Gołkowska,Rest of the bus network,395,402.5,3.28,107.9,183
+Strażacka,Rest of the bus network,335,401,3.27,101.8,184
+Korbońskiego,Rest of the bus network,373,395.6,3.23,104.6,185
+Roentgena,Rest of the bus network,396,393.4,3.21,106.4,186
+Belgradzka,Rest of the bus network,377,392.9,3.21,104.6,187
+Gierdziejewskiego,Rest of the bus network,303,392.5,3.2,97.3,188
+Lucerny,Rest of the bus network,393,382.3,3.12,104.3,189
+Posag 7 Panien,Rest of the bus network,307,382.3,3.12,95.9,190
+Klaudyny,Rest of the bus network,345,382.2,3.12,99.5,191
+Skoroszewska,Rest of the bus network,396,380.1,3.1,104.1,192
+Jana Kazimierza,Rest of the bus network,275,380.1,3.1,92.4,193
+Dolna,Rest of the bus network,286,379,3.09,93.3,194
+Instalatorów,Rest of the bus network,319,377.2,3.08,96.2,195
+Chłopickiego,Rest of the bus network,303,375.2,3.06,94.3,196
+Francuska,Rest of the bus network,309,374.8,3.06,94.8,197
+Egipska,Rest of the bus network,333,361.1,2.95,94.7,198
+Czwartaków,Rest of the bus network,344,360.8,2.94,95.7,199
+Kompanii AK „Kordian”,Rest of the bus network,259,357.6,2.92,87,200
+Surowieckiego,Rest of the bus network,446,356.8,2.91,105,201
+Nocznickiego,Rest of the bus network,301,354.2,2.89,90.5,202
+Kościuszki,Rest of the bus network,284,353.1,2.88,88.7,203
+Chełmska,Rest of the bus network,292,352.6,2.88,89.3,204
+Na Skraju,Rest of the bus network,255,351.4,2.87,85.5,205
+Prosta,Rest of the bus network,434,350.8,2.86,102.8,206
+Drewny,Rest of the bus network,272,349.1,2.85,86.8,207
+Handlowa,Rest of the bus network,293,348.9,2.85,88.8,208
+Bohaterów Warszawy,Rest of the bus network,266,345.5,2.82,85.5,209
+Juranda ze Spychowa,Rest of the bus network,361,345.4,2.82,94.7,210
+Słomińskiego,Rest of the bus network,321,340.9,2.78,90.1,211
+Żołnierzy Wyklętych,Rest of the bus network,333,340.7,2.78,91.2,212
+Kłobucka,Rest of the bus network,253,339.8,2.77,83.3,213
+Poligonowa,Rest of the bus network,283,337.7,2.76,85.8,214
+Milenijna,Rest of the bus network,396,336.8,2.75,96.6,215
+al. Rzeczypospolitej,Rest of the bus network,245,336.2,2.74,81.9,216
+Estrady,Rest of the bus network,315,334.4,2.73,88.4,217
+Sokratesa,Rest of the bus network,381,334.2,2.73,94.8,218
+Mochtyńska,Rest of the bus network,290,332.1,2.71,85.6,219
+Wojciechowskiego,Rest of the bus network,280,332.1,2.71,84.6,220
+pl. Trzech Krzyży,Connected street (full length),440,329.7,2.69,99.7,221
+Ząbkowska,Rest of the bus network,281,329.5,2.69,84.3,222
+Szamoty,Rest of the bus network,264,329.1,2.69,82.5,223
+Cynamonowa,Rest of the bus network,359,328.1,2.68,91.6,224
+Wóycickiego,Rest of the bus network,290,323,2.64,84,225
+Smocza,Rest of the bus network,259,321.2,2.62,80.7,226
+1 Sierpnia,Rest of the bus network,301,319.4,2.61,84.4,227
+Pożaryskiego,Rest of the bus network,249,318.2,2.6,79.2,228
+Banacha,Rest of the bus network,384,315.7,2.58,91.8,229
+Stepowa,Rest of the bus network,250,314.8,2.57,78.7,230
+Gotarda,Rest of the bus network,231,314.3,2.56,76.8,231
+Herbsta,Rest of the bus network,374,312.4,2.55,90.4,232
+Domaniewska,Rest of the bus network,230,310.2,2.53,75.9,233
+Lubelska,Rest of the bus network,247,307,2.51,77.1,234
+Łazienkowska,Rest of the bus network,308,304.8,2.49,82.6,235
+Solec,Rest of the bus network,317,301.7,2.46,82.9,236
+Wspólna,Rest of the bus network,275,300.3,2.45,78.6,237
+Stawki,Rest of the bus network,216,298.1,2.43,72.5,238
+Bokserska,Rest of the bus network,218,297.2,2.42,72.5,239
+Bazyliańska,Rest of the bus network,243,296,2.42,74.8,240
+Cieślewskich,Rest of the bus network,276,293.5,2.39,77.6,241
+Grzybowa,Rest of the bus network,257,292.5,2.39,75.5,242
+Globusowa,Rest of the bus network,265,291.6,2.38,76.1,243
+Zdziarska,Rest of the bus network,257,290,2.37,75.1,244
+Rudnickiego,Rest of the bus network,322,287.5,2.35,81,245
+al. Komandosów,Rest of the bus network,253,287.2,2.34,74.2,246
+Gościniec,Rest of the bus network,249,279,2.28,72.4,247
+Koszykowa,Connected street (full length),263,279,2.28,73.7,248
+Bronowska,Rest of the bus network,246,278.5,2.27,72.1,249
+Myśliborska,Rest of the bus network,416,277.4,2.26,88.3,250
+Romera,Rest of the bus network,353,276.7,2.26,82.1,251
+Makowska,Rest of the bus network,200,276.6,2.26,67.3,252
+Kruczkowskiego,Rest of the bus network,200,276.5,2.26,67.3,253
+Odkryta,Rest of the bus network,417,275.9,2.25,88.2,254
+Traktorzystów,Rest of the bus network,259,275.6,2.25,72.8,255
+Statkowskiego,Rest of the bus network,272,274.9,2.24,74,256
+Wybrzeże Gdańskie,Rest of the bus network,197,272.6,2.22,66.3,257
+al. Poniatowskiego,Rest of the bus network,266,271.2,2.21,72.7,258
+Hemara,Rest of the bus network,284,270.4,2.21,74.3,259
+Jugosłowiańska,Rest of the bus network,261,263.1,2.15,70.9,260
+Dwernickiego,Rest of the bus network,221,262.5,2.14,66.9,261
+Paryska,Rest of the bus network,232,262.1,2.14,67.8,262
+Meissnera,Rest of the bus network,251,260.9,2.13,69.5,263
+Wiatraczna,Rest of the bus network,207,258.7,2.11,64.8,264
+Swojska,Rest of the bus network,241,255.8,2.09,67.6,265
+Rydygiera,Rest of the bus network,240,254.5,2.08,67.3,266
+Lalki,Rest of the bus network,183,252.5,2.06,61.4,267
+al. Witosa,Rest of the bus network,205,247.3,2.02,62.7,268
+Widoczna,Rest of the bus network,179,245.3,2,59.8,269
+Elekcyjna,Rest of the bus network,177,244.4,1.99,59.5,270
+Ostroroga,Rest of the bus network,402,243.2,1.98,81,271
+Słowackiego,Rest of the bus network,590,238.7,1.95,98.5,272
+Kochanowskiego,Rest of the bus network,379,238.6,1.95,78.1,273
+Karczunkowska,Rest of the bus network,250,237.5,1.94,65.3,274
+Przy Agorze,Rest of the bus network,288,235.6,1.92,68.7,275
+Deotymy,Rest of the bus network,247,235,1.92,64.6,276
+Górnośląska,Rest of the bus network,225,234.7,1.92,62.5,277
+ks. Chrościckiego,Rest of the bus network,406,232.7,1.9,79.7,278
+Frontowa,Rest of the bus network,189,232.6,1.9,58.5,279
+Bruzdowa,Rest of the bus network,243,231.9,1.89,63.6,280
+Bohaterów,Rest of the bus network,216,229.7,1.87,60.7,281
+Szwoleżerów,Rest of the bus network,198,228.9,1.87,58.8,282
+Orłów Piastowskich,Rest of the bus network,193,228.6,1.87,58.2,283
+Zakole,Rest of the bus network,184,225.3,1.84,56.8,284
+Wybrzeże Szczecińskie,Rest of the bus network,180,223.5,1.82,56.1,285
+Pużaka,Rest of the bus network,162,223.1,1.82,54.3,286
+Fort Wola,Rest of the bus network,177,221.5,1.81,55.4,287
+Beli Bartóka,Rest of the bus network,207,220.8,1.8,58.3,288
+Augustówka,Rest of the bus network,211,220.4,1.8,58.6,289
+Czerwonych Beretów,Rest of the bus network,177,218.3,1.78,55,290
+11 Listopada,Rest of the bus network,205,217.6,1.78,57.5,291
+Techniczna,Rest of the bus network,202,215,1.75,56.8,292
+Naczelnikowska,Rest of the bus network,179,214.2,1.75,54.4,293
+Łojewska,Rest of the bus network,172,213.7,1.74,53.6,294
+Chrzanowskiego,Rest of the bus network,175,213.1,1.74,53.8,295
+Perzyńskiego,Rest of the bus network,168,210.6,1.72,52.7,296
+Malborska,Rest of the bus network,159,210.4,1.72,51.8,297
+al. Wieniawy-Długoszowskiego,Rest of the bus network,154,209.9,1.71,51.2,298
+Wybrzeże Kościuszkowskie,Rest of the bus network,213,208.7,1.7,56.8,299
+Szosowa,Rest of the bus network,183,208.7,1.7,53.9,300
+Unicka,Rest of the bus network,176,207,1.69,52.9,301
+Włościańska,Rest of the bus network,191,206.8,1.69,54.3,302
+Grenadierów,Rest of the bus network,235,205.4,1.68,58.4,303
+Myśliwiecka,Rest of the bus network,178,205.1,1.67,52.7,304
+Włodarzewska,Connected street (full length),274,204,1.67,61.9,305
+Obozowa,Rest of the bus network,197,203.4,1.66,54.2,306
+al. Piłsudskiego,Rest of the bus network,190,201.8,1.65,53.3,307
+al. Rodowicza „Anody”,Rest of the bus network,261,201,1.64,60.1,308
+Kadetów,Rest of the bus network,215,200.4,1.64,55.5,309
+Borzymowska,Rest of the bus network,159,199.1,1.62,49.8,310
+Baletowa,Rest of the bus network,267,198.3,1.62,60.2,311
+Klasyków,Rest of the bus network,186,198,1.62,52.3,312
+Inżynierska,Rest of the bus network,172,196.7,1.61,50.8,313
+Czołowa,Rest of the bus network,184,195.9,1.6,51.8,314
+Piastów Śląskich,Rest of the bus network,205,192.3,1.57,53.1,315
+Kocjana,Rest of the bus network,178,191.3,1.56,50.4,316
+Cybernetyki,Rest of the bus network,139,191.3,1.56,46.5,317
+Gilarska,Rest of the bus network,162,190.2,1.55,48.6,318
+Aluzyjna,Rest of the bus network,253,189.1,1.54,57.3,319
+Panny Wodnej,Rest of the bus network,226,189,1.54,54.7,320
+Dzierżoniowska,Rest of the bus network,148,188.7,1.54,47,321
+Krasnobrodzka,Rest of the bus network,140,188.2,1.54,46.2,322
+Orzycka,Rest of the bus network,136,184.4,1.5,45.1,323
+Dzierzgońska,Rest of the bus network,217,184.1,1.5,52.9,324
+Dywizjonu 303,Rest of the bus network,136,182,1.49,44.7,325
+Jastrzębowskiego,Rest of the bus network,133,181.5,1.48,44.3,326
+gen. Maczka,Rest of the bus network,253,180,1.47,55.7,327
+Piękna,Rest of the bus network,286,177.8,1.45,58.5,328
+Lewandów,Rest of the bus network,145,175.8,1.43,44.4,329
+Brata Alberta,Rest of the bus network,164,174,1.42,46,330
+Al. Ujazdowskie,Rest of the bus network,881,173.8,1.42,115.6,331
+Verdiego,Rest of the bus network,126,173.7,1.42,42.3,332
+Zwycięzców,Rest of the bus network,167,173.3,1.41,46.2,333
+Szyszkowa,Rest of the bus network,163,172.6,1.41,45.6,334
+Ćmielowska,Rest of the bus network,161,172.1,1.4,45.4,335
+Spisaka,Rest of the bus network,152,171.1,1.4,44.3,336
+Świderska,Rest of the bus network,371,167.9,1.37,65,337
+Szwedzka,Rest of the bus network,158,167.2,1.36,44.3,338
+Cyrulików,Rest of the bus network,144,164.6,1.34,42.5,339
+Hanki Ordonówny,Rest of the bus network,271,161.3,1.32,54.2,340
+Mińska,Rest of the bus network,148,161.1,1.32,42.2,341
+Zawodzie,Rest of the bus network,149,159.3,1.3,42,342
+Ratuszowa,Rest of the bus network,136,155.9,1.27,40.2,343
+Książęca,Rest of the bus network,195,151.9,1.24,45.2,344
+Rolanda,Rest of the bus network,110,151.7,1.24,36.9,345
+Bobrowiecka,Rest of the bus network,174,151.1,1.23,43,346
+Gorzykowska,Rest of the bus network,123,150.9,1.23,38.1,347
+Idzikowskiego,Rest of the bus network,202,150.4,1.23,45.6,348
+Wirażowa,Rest of the bus network,115,147,1.2,36.6,349
+Andersa,Rest of the bus network,345,146.7,1.2,58.8,350
+Złotej Jesieni,Rest of the bus network,137,145.8,1.19,38.5,351
+Żubrowa,Rest of the bus network,122,145.4,1.19,36.9,352
+Leszno,Rest of the bus network,107,140.9,1.15,34.8,353
+Księcia Bolesława,Rest of the bus network,134,139.2,1.14,37.1,354
+Chodakowska,Rest of the bus network,119,138.4,1.13,35.5,355
+Paluch,Rest of the bus network,100,138,1.13,33.6,356
+Ołówkowa,Rest of the bus network,129,137.4,1.12,36.3,357
+Stanisławowska,Rest of the bus network,113,137.3,1.12,34.7,358
+Obrzeźna,Rest of the bus network,100,136.7,1.12,33.4,359
+Dobrzańskiego „Hubala”,Rest of the bus network,128,136.6,1.11,36,360
+Kościuszkowców,Rest of the bus network,134,136.4,1.11,36.6,361
+most Świętokrzyski,Rest of the bus network,101,135.9,1.11,33.3,362
+Codzienna,Rest of the bus network,97,134.6,1.1,32.7,363
+Władysława Jagiełły,Rest of the bus network,97,134.6,1.1,32.7,364
+pl. Wilsona,Rest of the bus network,145,133.9,1.09,37.2,365
+Okularowa,Rest of the bus network,106,133.6,1.09,33.4,366
+Wiertnicza,Rest of the bus network,310,133.4,1.09,53.2,367
+Ochocza,Rest of the bus network,125,132.5,1.08,35,368
+al. 3 Maja,Rest of the bus network,329,131.7,1.07,54.7,369
+Newelska,Rest of the bus network,114,129.9,1.06,33.6,370
+Zamoście,Rest of the bus network,93,128.7,1.05,31.3,371
+Opaczewska,Connected street (full length),104,127.8,1.04,32.2,372
+Narcyzowa,Rest of the bus network,119,126.4,1.03,33.4,373
+Bystrzycka,Rest of the bus network,119,126.4,1.03,33.4,374
+Konstruktorska,Rest of the bus network,132,126.2,1.03,34.6,375
+Osmańska,Rest of the bus network,101,126.1,1.03,31.6,376
+Poczty Gdańskiej,Rest of the bus network,101,125.8,1.03,31.6,377
+Wierna,Rest of the bus network,117,124.8,1.02,33,378
+Tatarska,Rest of the bus network,117,124.5,1.02,32.9,379
+Skośna,Rest of the bus network,91,122.1,1,30,380
+Gwarków,Rest of the bus network,96,121.3,0.99,30.3,381
+Namysłowska,Rest of the bus network,114,121.2,0.99,32,382
+Racjonalizacji,Rest of the bus network,110,119.2,0.97,31.3,383
+Bliska,Rest of the bus network,96,118.3,0.97,29.7,384
+Ogórkowa,Rest of the bus network,100,117,0.96,30,385
+Przy Bażantarni,Rest of the bus network,123,116.9,0.95,32.2,386
+Nowy Świat,Connected street (full length),1160,116.8,0.95,132.7,387
+Echa Leśne,Rest of the bus network,110,116.7,0.95,30.8,388
+Świętokrzyska,Rest of the bus network,249,116.4,0.95,44.3,389
+Skalnicowa,Rest of the bus network,151,114.2,0.93,34.4,390
+Świerszcza,Rest of the bus network,140,113.3,0.92,33.2,391
+Fajna,Rest of the bus network,93,112.4,0.92,28.4,392
+Walcownicza,Rest of the bus network,106,112.2,0.92,29.7,393
+gen. Rozwadowskiego,Rest of the bus network,105,111.5,0.91,29.5,394
+Myszkowska,Rest of the bus network,96,111.3,0.91,28.5,395
+Potocka,Rest of the bus network,103,110.2,0.9,29,396
+Młynarska,Rest of the bus network,86,110.1,0.9,27.4,397
+pl. Bankowy,Rest of the bus network,221,110,0.9,40.5,398
+Żyrardowska,Rest of the bus network,103,109.9,0.9,29,399
+Nowolipki,Rest of the bus network,174,108.6,0.89,35.7,400
+al. Sztandarów,Rest of the bus network,101,107.3,0.88,28.4,401
+Ilskiego,Rest of the bus network,94,106.8,0.87,27.6,402
+Prystora,Rest of the bus network,122,105.7,0.86,30.1,403
+Starzyńskiego,Rest of the bus network,97,103.5,0.84,27.3,404
+Przekorna,Rest of the bus network,99,102.3,0.84,27.3,405
+Tunelowa,Rest of the bus network,95,101.2,0.83,26.7,406
+Strąkowa,Rest of the bus network,86,101,0.82,25.8,407
+Rosochata,Rest of the bus network,131,97.5,0.8,29.6,408
+Czerwona Droga,Rest of the bus network,70,95.2,0.78,23.2,409
+Hubalczyków,Rest of the bus network,68,93.7,0.76,22.8,410
+Jórskiego,Rest of the bus network,88,93.3,0.76,24.7,411
+Okrzei,Rest of the bus network,68,92,0.75,22.5,412
+Szeligowska,Rest of the bus network,79,91.2,0.74,23.4,413
+Krucza,Connected street (full length),123,91.1,0.74,27.6,414
+Kwitnąca,Rest of the bus network,122,90.6,0.74,27.5,415
+Dionizosa,Rest of the bus network,72,90.1,0.74,22.6,416
+Galla Anonima,Rest of the bus network,84,89.2,0.73,23.6,417
+al. Harcerzy Rzeczypospolitej,Rest of the bus network,70,88.3,0.72,22.1,418
+Nugat,Rest of the bus network,64,87.8,0.72,21.4,419
+Bennetta,Rest of the bus network,114,87.8,0.72,26.2,420
+Zajęcza,Rest of the bus network,114,87.5,0.71,26.2,421
+Tamka,Rest of the bus network,179,87.2,0.71,32.5,422
+Pruszkowska,Rest of the bus network,132,87.1,0.71,27.9,423
+Łączyny,Rest of the bus network,71,86.5,0.71,21.9,424
+Techników,Rest of the bus network,156,85,0.69,29.9,425
+Księżycowa,Rest of the bus network,114,84.4,0.69,25.6,426
+Zasadowa,Rest of the bus network,112,83,0.68,25.2,427
+Szatkowników,Rest of the bus network,67,82.2,0.67,20.7,428
+Wioślarska,Rest of the bus network,62,81.9,0.67,20.2,429
+Dorodna,Rest of the bus network,107,79.4,0.65,24.1,430
+Belwederska,Rest of the bus network,314,79.4,0.65,44.1,431
+droga lokalna EC Siekierki,Rest of the bus network,78,78.9,0.64,21.2,432
+Krzyżanowskiego,Rest of the bus network,74,78.7,0.64,20.8,433
+Dzika,Rest of the bus network,56,77.7,0.63,18.9,434
+ks. Kłopotowskiego,Rest of the bus network,57,76.3,0.62,18.7,435
+Ogrodników,Rest of the bus network,55,75.9,0.62,18.5,436
+Petunii,Rest of the bus network,70,74.4,0.61,19.7,437
+Goworka,Rest of the bus network,54,74.2,0.61,18,438
+Sympatyczna,Rest of the bus network,145,74.1,0.6,26.9,439
+Metryczna,Rest of the bus network,75,73.7,0.6,20,440
+pl. Trynopolski,Rest of the bus network,69,73.3,0.6,19.4,441
+Marii Callas,Rest of the bus network,59,73.2,0.6,18.4,442
+pl. Ostrej Bramy,Rest of the bus network,68,72.4,0.59,19.1,443
+Spychowska,Rest of the bus network,67,71.9,0.59,18.9,444
+Kiedacza,Rest of the bus network,52,71.7,0.59,17.4,445
+al. Waszyngtona,Rest of the bus network,168,71.6,0.58,28.6,446
+Mokry Ług,Rest of the bus network,67,71.1,0.58,18.8,447
+Daniszewska,Rest of the bus network,96,71,0.58,21.6,448
+Trenów,Rest of the bus network,66,70.5,0.58,18.6,449
+Chałubińskiego,Connected street (full length),54,70.2,0.57,17.4,450
+Relaksowa,Rest of the bus network,65,69.7,0.57,18.4,451
+rondo Wiatraczna,Rest of the bus network,61,69.4,0.57,17.9,452
+Potrzebna,Rest of the bus network,65,69.3,0.57,18.3,453
+Świętosławskiego,Rest of the bus network,76,69.1,0.56,19.3,454
+Podskarbińska,Rest of the bus network,69,69,0.56,18.6,455
+Raciborska,Rest of the bus network,76,67.7,0.55,19.1,456
+Bolimowska,Rest of the bus network,63,67.3,0.55,17.7,457
+Tarnogórska,Rest of the bus network,89,66.2,0.54,20.1,458
+Wielkiego Dębu,Rest of the bus network,62,66,0.54,17.4,459
+Taneczna,Rest of the bus network,87,65,0.53,19.7,460
+Wałuszewska,Rest of the bus network,61,64.6,0.53,17.1,461
+Królewska,Rest of the bus network,212,63.5,0.52,31.5,462
+Spartańska,Rest of the bus network,83,63.2,0.52,19,463
+Łasaka,Rest of the bus network,83,62,0.51,18.8,464
+Dziekanowska,Rest of the bus network,58,61.5,0.5,16.3,465
+Liliowa,Rest of the bus network,83,61.4,0.5,18.6,466
+Matki Teresy z Kalkuty,Rest of the bus network,58,61.3,0.5,16.2,467
+Brylowska,Rest of the bus network,57,60.4,0.49,16,468
+Rosnowskiego,Rest of the bus network,56,60.1,0.49,15.8,469
+Św. A. Boboli,Rest of the bus network,56,59.6,0.49,15.7,470
+Kołowa,Rest of the bus network,56,59,0.48,15.6,471
+Anielewicza,Rest of the bus network,629,58,0.47,71.1,472
+Samarytanka,Rest of the bus network,55,58,0.47,15.3,473
+Olsztyńska,Rest of the bus network,54,57,0.47,15.1,474
+Gwintowa,Rest of the bus network,41,56.8,0.46,13.8,475
+van Beethovena,Rest of the bus network,68,56.2,0.46,16.3,476
+Suwak,Rest of the bus network,41,56.2,0.46,13.7,477
+Międzynarodowa,Rest of the bus network,124,55.1,0.45,21.5,478
+Zegarynki,Rest of the bus network,51,54.4,0.44,14.4,479
+Brazylijska,Rest of the bus network,121,54,0.44,21.1,480
+al. Obrońców Grodna,Rest of the bus network,39,53.8,0.44,13.1,481
+Opłotek,Rest of the bus network,50,53.5,0.44,14.1,482
+Wincentego Kadłubka,Rest of the bus network,48,51.5,0.42,13.6,483
+Kopijników,Rest of the bus network,48,51.3,0.42,13.6,484
+Zielonej Gęsi,Rest of the bus network,48,50.7,0.41,13.4,485
+Wschodu Słońca,Connected street (full length),47,50.4,0.41,13.3,486
+Mańkowska,Rest of the bus network,40,50.3,0.41,12.6,487
+jezdnia w sąsiedztwie CH Targówek,Rest of the bus network,47,50.1,0.41,13.3,488
+Abrahama,Rest of the bus network,197,49.6,0.4,27.7,489
+Tuzinowa,Rest of the bus network,46,49.3,0.4,13,490
+Zagórzańska,Rest of the bus network,46,48.6,0.4,12.9,491
+Ludna,Rest of the bus network,194,48.2,0.39,27.2,492
+Osmańczyka,Rest of the bus network,64,47.6,0.39,14.4,493
+al. płk. Kuklińskiego,Rest of the bus network,36,47.4,0.39,11.7,494
+Stalowa,Rest of the bus network,45,47.3,0.39,12.6,495
+Szpitalna,Connected street (full length),64,47.3,0.39,14.3,496
+Krzyckiego,Rest of the bus network,125,47.3,0.39,20.3,497
+Jarzębskiego,Rest of the bus network,44,47.1,0.38,12.4,498
+Tawułkowa,Rest of the bus network,63,46.9,0.38,14.2,499
+Kazimierza Jagiellończyka,Rest of the bus network,44,46.8,0.38,12.4,500
+Polnych Kwiatów,Rest of the bus network,44,46.7,0.38,12.3,501
+Kobylańska,Rest of the bus network,43,46.4,0.38,12.2,502
+Potulicka,Rest of the bus network,61,45.3,0.37,13.7,503
+pl. Czerwca 1976 r.,Rest of the bus network,42,44.8,0.37,11.8,504
+Annopol,Rest of the bus network,59,44.5,0.36,13.4,505
+Odrowąża,Rest of the bus network,42,44.3,0.36,11.7,506
+Spiralna,Rest of the bus network,41,44,0.36,11.6,507
+Krasnowolska,Rest of the bus network,58,42.8,0.35,13,508
+Porajów,Rest of the bus network,110,41,0.33,17.8,509
+Krakowskie Przedmieście,Rest of the bus network,1190,40.8,0.33,122.5,510
+Dobra,Rest of the bus network,522,40.6,0.33,57.7,511
+Spacerowa,Rest of the bus network,30,40.5,0.33,9.9,512
+Międzyborska,Rest of the bus network,39,40.2,0.33,10.8,513
+Podkowy,Rest of the bus network,38,40.1,0.33,10.6,514
+Olecka,Rest of the bus network,52,40,0.33,11.9,515
+Nowodworska,Rest of the bus network,73,40,0.33,14,516
+Rodziewiczówny,Rest of the bus network,30,39.8,0.32,9.8,517
+Rakowiecka,Rest of the bus network,37,39.3,0.32,10.4,518
+Żerańska,Rest of the bus network,53,39.2,0.32,11.9,519
+pl. Małachowskiego,Rest of the bus network,52,39,0.32,11.8,520
+Rzeczna,Rest of the bus network,36,38.5,0.31,10.2,521
+Ateńska,Rest of the bus network,35,37.5,0.31,9.9,522
+Narutowicza,Rest of the bus network,35,37.4,0.31,9.9,523
+Sprawna,Rest of the bus network,48,35.9,0.29,10.9,524
+30. Pułku Strzelców Kaniowskich,Rest of the bus network,34,35.7,0.29,9.4,525
+Bardowskiego,Rest of the bus network,33,35.2,0.29,9.3,526
+Lanciego,Rest of the bus network,47,35.1,0.29,10.7,527
+Poezji,Rest of the bus network,45,34.5,0.28,10.3,528
+Księcia Janusza,Rest of the bus network,33,34.5,0.28,9.2,529
+Starodęby,Connected street (full length),39,34.2,0.28,9.7,530
+Raszyńska,Connected street (full length),371,33,0.27,41.7,531
+Wynalazek,Rest of the bus network,24,32.9,0.27,8,532
+Wierzbowa,Rest of the bus network,99,32.8,0.27,15.3,533
+Korotyńskiego,Rest of the bus network,64,32.7,0.27,11.8,534
+Cegielniana,Rest of the bus network,58,32.4,0.26,11.2,535
+Przasnyska,Rest of the bus network,31,32.4,0.26,8.6,536
+Grzybowska,Rest of the bus network,203,32.2,0.26,25.2,537
+Polska,Rest of the bus network,43,32,0.26,9.7,538
+ks. Indrzejczyka,Rest of the bus network,30,31.6,0.26,8.3,539
+Bolesława Krzywoustego,Rest of the bus network,29,31.2,0.25,8.3,540
+Jana Heweliusza,Rest of the bus network,29,30.7,0.25,8.1,541
+Drwęcka,Rest of the bus network,22,30.7,0.25,7.5,542
+Borków,Rest of the bus network,41,30.5,0.25,9.2,543
+Brukselska,Rest of the bus network,29,30.3,0.25,8,544
+Wałowicka,Rest of the bus network,29,30.3,0.25,8,545
+Bukowska,Rest of the bus network,40,29.7,0.24,9,546
+Kupiecka,Rest of the bus network,28,29.5,0.24,7.8,547
+Pomorska,Rest of the bus network,39,28.8,0.24,8.7,548
+Niemcewicza,Connected street (full length),27,28.6,0.23,7.5,549
+Siennicka,Rest of the bus network,21,28.4,0.23,6.9,550
+Fiszera,Rest of the bus network,26,27.9,0.23,7.4,551
+Mazowiecka,Rest of the bus network,37,27.5,0.22,8.3,552
+Odlewnicza,Rest of the bus network,37,27.1,0.22,8.2,553
+Okopowa,Rest of the bus network,155,26.4,0.22,19.6,554
+pl. Narutowicza,Rest of the bus network,19,26.2,0.21,6.4,555
+Pieniążka,Rest of the bus network,35,25.7,0.21,7.8,556
+Narkiewicza,Rest of the bus network,21,25.7,0.21,6.4,557
+Bodycha,Rest of the bus network,24,25.7,0.21,6.8,558
+Dzielna,Rest of the bus network,34,25.3,0.21,7.7,559
+Kępa Tarchomińska,Rest of the bus network,34,24.9,0.2,7.6,560
+Jeżowskiego,Rest of the bus network,25,23.6,0.19,6.5,561
+Moniuszki,Rest of the bus network,22,22.9,0.19,6.1,562
+Chudoby,Rest of the bus network,31,22.8,0.19,6.9,563
+Harfowa,Rest of the bus network,30,22.7,0.18,6.9,564
+Prawdziwka,Rest of the bus network,30,22.2,0.18,6.7,565
+Żołnierska,Rest of the bus network,16,21.7,0.18,5.3,566
+droga wzdłuż nasypu średnicowej linii kolejowej,Rest of the bus network,15,21.2,0.17,5.1,567
+Poznańska,Rest of the bus network,15,20.8,0.17,5.1,568
+Opieńki,Rest of the bus network,19,20.6,0.17,5.4,569
+al. Bohaterów Września,Rest of the bus network,17,20.4,0.17,5.2,570
+Księżnej Anny,Rest of the bus network,19,19.9,0.16,5.3,571
+Przyrzecze,Rest of the bus network,26,19.4,0.16,5.9,572
+Palisadowa,Rest of the bus network,18,19.2,0.16,5.1,573
+Szybka,Rest of the bus network,18,18.7,0.15,4.9,574
+pl. Powstańców Warszawy,Rest of the bus network,24,17.9,0.15,5.4,575
+Głowackiego,Rest of the bus network,17,17.6,0.14,4.6,576
+Żółkiewskiego,Rest of the bus network,13,17.1,0.14,4.2,577
+Zatorze,Rest of the bus network,13,17,0.14,4.2,578
+ks. Popiełuszki,Rest of the bus network,21,16.4,0.13,4.9,579
+Nowa,Rest of the bus network,15,16.4,0.13,4.3,580
+Michalinki,Rest of the bus network,21,16.3,0.13,4.8,581
+Juhasów,Rest of the bus network,21,15.5,0.13,4.7,582
+Równoległa,Rest of the bus network,14,15.3,0.13,4.1,583
+Wiechy,Rest of the bus network,20,14.8,0.12,4.5,584
+Podmokła,Rest of the bus network,19,14.4,0.12,4.4,585
+Batalionów Chłopskich,Rest of the bus network,18,13.6,0.11,4.1,586
+Bonifraterska,Rest of the bus network,261,13.5,0.11,27.7,587
+Płytowa,Rest of the bus network,12,13.2,0.11,3.5,588
+Chlubna,Rest of the bus network,17,12.7,0.1,3.8,589
+Czajki,Rest of the bus network,17,12.7,0.1,3.8,590
+Fleminga,Rest of the bus network,12,12.3,0.1,3.3,591
+Terespolska,Rest of the bus network,13,12,0.1,3.3,592
+Przełęczy,Rest of the bus network,16,11.7,0.1,3.6,593
+pl. Krasińskich,Rest of the bus network,350,11.6,0.09,35.9,594
+Antoniewska,Rest of the bus network,15,11.4,0.09,3.5,595
+Wyczółki,Rest of the bus network,11,11.4,0.09,3.1,596
+Floriana,Rest of the bus network,11,11.4,0.09,3,597
+Ekspresowa,Rest of the bus network,10,10.9,0.09,2.9,598
+Prząśniczek,Rest of the bus network,15,10.8,0.09,3.3,599
+Parcelacyjna,Rest of the bus network,14,10.2,0.08,3.1,600
+Miodowa,Rest of the bus network,204,9.7,0.08,21.5,601
+Przylesie,Rest of the bus network,13,9.5,0.08,2.9,602
+Coopera,Rest of the bus network,12,9.3,0.08,2.8,603
+Wilczy Dół,Rest of the bus network,9,9.1,0.07,2.4,604
+parking przy Oczyszczalni Południe,Rest of the bus network,11,9,0.07,2.6,605
+Gąsiorowskiej,Rest of the bus network,12,8.8,0.07,2.7,606
+Tużycka,Rest of the bus network,12,8.7,0.07,2.6,607
+Kwitnącej Akacji,Rest of the bus network,11,8.3,0.07,2.5,608
+Wileńska,Rest of the bus network,6,8.2,0.07,2,609
+Krańcowa,Rest of the bus network,6,7.9,0.06,1.9,610
+Sągi,Rest of the bus network,10,7.8,0.06,2.4,611
+Zaułek,Rest of the bus network,7,7.6,0.06,2,612
+Towarowa,Rest of the bus network,35,7.5,0.06,4.7,613
+Prętowa,Rest of the bus network,9,6.6,0.05,2,614
+Cygańska,Rest of the bus network,8,6.1,0.05,1.8,615
+Calowa,Rest of the bus network,8,5.9,0.05,1.8,616
+Muranowska,Rest of the bus network,88,5.9,0.05,9.6,617
+Rolna,Rest of the bus network,6,5.7,0.05,1.6,618
+Współczesna,Rest of the bus network,7,5.3,0.04,1.6,619
+Sacharowa,Rest of the bus network,5,5.3,0.04,1.4,620
+al. Polskiej Organizacji Wojskowej,Rest of the bus network,4,5.1,0.04,1.2,621
+Szumiących Traw,Rest of the bus network,5,4,0.03,1.2,622
+Sosnkowskiego,Rest of the bus network,3,4,0.03,1,623
+Kuropatwy,Rest of the bus network,4,3.3,0.03,1,624
+Postępu,Rest of the bus network,2,2.5,0.02,0.7,625
+Skrzyneckiego,Rest of the bus network,3,2.2,0.02,0.7,626
+Rembielińska,Rest of the bus network,2,2,0.02,0.5,627
+Joliot-Curie,Rest of the bus network,31,1.8,0.01,3.3,628
+Malczewskiego,Rest of the bus network,86,1.7,0.01,8.6,629
+Warszawskich Tramwajarzy,Rest of the bus network,1,1.2,0.01,0.3,630
+Focha,Rest of the bus network,160,0.8,0.01,15.6,631
+Kinowa,Rest of the bus network,80,0,0,7.7,632
+Kołomyjska,Connected street (full length),36,0,0,3.5,633
+Rudzka,Rest of the bus network,15,0,0,1.4,634
+Hłaski,Rest of the bus network,40,0,0,3.9,635
+Gdańska,Rest of the bus network,33,0,0,3.2,636
+Konwiktorska,Rest of the bus network,45,0,0,4.4,637
+Senatorska,Rest of the bus network,70,0,0,6.8,638
+Browarna,Rest of the bus network,26,0,0,2.5,639
+Rozłucka,Rest of the bus network,28,0,0,2.7,640
+Spalinowa,Rest of the bus network,33,0,0,3.2,641
+Świętojerska,Rest of the bus network,49,0,0,4.7,642
+Štefánika,Rest of the bus network,4,0,0,0.3,643
+Bielańska,Rest of the bus network,9,0,0,0.9,644

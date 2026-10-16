@@ -1,0 +1,6 @@
+scope,bus_km_per_day,CO2_t_per_day,NOx_kg_per_day,PM10_kg_per_day,share_of_city_CO2
+Long link across several streets,54908,61.15,499,15.9,0.176
+Rest of the bus network,239201,265.45,2166.2,69.11,0.765
+Connected street (full length),14381,15,122.4,3.99,0.043
+Al. Jerozolimskie,6700,5.47,44.6,1.6,0.016
+Whole Warsaw bus network,315189,347.07,2832.2,90.6,1

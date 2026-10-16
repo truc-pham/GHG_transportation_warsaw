@@ -1,0 +1,2 @@
+service_date,corridor,routes,electric_share_of_bus_km,trips_per_day,bus_km_per_day,CO2_kg_per_day,NOx_kg_per_day,PM10_exhaust_g_per_day,PM10_nonexhaust_g_per_day,PM10_g_per_day
+20260318,Al. Jerozolimskie,38,0.369,3505,6671.7,5441.4,44.4,941.1,647.2,1588.3

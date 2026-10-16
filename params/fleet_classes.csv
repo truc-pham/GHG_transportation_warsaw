@@ -1,0 +1,6 @@
+fleet_type,class_label,powertrain,fuel_l_per_100km,source
+K-np8-10m,Midi bus (8-10 m),diesel,28,"ASSUMPTION - replace with operator (MZA) or COPERT Tier 2 value"
+M-np12m,Standard bus (12 m),diesel,40,"ASSUMPTION - replace with operator (MZA) or COPERT Tier 2 value"
+G-np18m,Articulated bus (18 m),diesel,52,"ASSUMPTION - replace with operator (MZA) or COPERT Tier 2 value"
+L-el12m,Electric bus (12 m),electric,0,"Zero tailpipe emissions"
+H-el18m,Electric bus (18 m),electric,0,"Zero tailpipe emissions"

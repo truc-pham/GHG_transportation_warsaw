@@ -1,0 +1,6 @@
+pollutant,basis,value,applies_to,source,note
+CO2,g_per_kg_fuel,3180,diesel,"EMEP/EEA Guidebook 2023 (2024 update), 1.A.3.b.i-iv Road transport, Table 3-12","Assumes full oxidation of fuel carbon"
+NOx,g_per_kg_fuel,25.95,diesel,"EMEP/EEA Guidebook 2023 (2024 update), 1.A.3.b.i-iv Road transport, Table 3-6 (Tier 1, HDV diesel, mean)","Fleet-average Tier 1 value; overestimates a modern Euro VI fleet"
+PM10_exhaust,g_per_kg_fuel,0.55,diesel,"EMEP/EEA Guidebook 2023 (2024 update), 1.A.3.b.i-iv Road transport, Table 3-6 (Tier 1, HDV diesel, mean)","Exhaust PM is fine (< 2.5 um), so it is counted fully as PM10"
+PM10_tyre_brake,g_per_vkm,0.0590,all buses,"EMEP/EEA Guidebook 2023 (2024 update), 1.A.3.b.vi-vii Tyre, brake and road wear, Table 3-1 (Tier 1, heavy duty trucks incl. urban buses)","Applies to electric buses too"
+PM10_road_wear,g_per_vkm,0.0380,all buses,"EMEP/EEA Guidebook 2023 (2024 update), 1.A.3.b.vi-vii Tyre, brake and road wear, Table 3-2 (Tier 1, heavy duty trucks incl. urban buses)","Applies to electric buses too"

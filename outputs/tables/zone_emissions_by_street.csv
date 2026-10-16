@@ -1,0 +1,57 @@
+street,on_corridor,bus_km_per_day,CO2_kg_per_day,NOx_kg_per_day,PM10_g_per_day
+Al. Jerozolimskie,TRUE,6699.8,5471.2,44.65,1596.1
+jezdnia płn. Dw. Centralnego,FALSE,720.2,899.6,7.34,225.5
+Łopuszańska,FALSE,594.9,814.4,6.65,198.6
+al. Prymasa Tysiąclecia,FALSE,624,748.7,6.11,190
+Grójecka,FALSE,493,648.3,5.29,159.9
+Sokołowskiego „Grzymały”,FALSE,430.3,594.1,4.85,144.5
+Emilii Plater,FALSE,447.9,566.3,4.62,141.4
+Bitwy Warszawskiej 1920 r.,FALSE,501.7,505.9,4.13,136.2
+Szczęśliwicka,FALSE,381.5,479.3,3.91,119.9
+Krańcowa,FALSE,386.1,447.2,3.65,114.8
+Marszałkowska,FALSE,256.3,336.5,2.75,83.1
+Popularna,FALSE,360.9,283.3,2.31,84
+al. 3 Maja,FALSE,278.7,263.3,2.15,72.6
+pl. Trzech Krzyży,FALSE,193.4,204.9,1.67,54.2
+Kopińska,FALSE,138.7,191.5,1.56,46.6
+Raszyńska,FALSE,362.1,187.7,1.53,67.6
+al. Bohaterów Września,FALSE,137.7,168.9,1.38,42.6
+Starodęby,FALSE,138.9,131.8,1.08,36.3
+Żelazna,FALSE,89.8,124,1.01,30.2
+al. Jana Pawła II,FALSE,78.2,106.9,0.87,26.1
+Nowy Świat,FALSE,684.3,92.5,0.76,82.4
+Dickensa,FALSE,67.8,84.5,0.69,21.2
+Skoroszewska,FALSE,90.7,79.7,0.65,22.6
+Opaczewska,FALSE,62.5,76.1,0.62,19.2
+Włodarzewska,FALSE,97.1,72.2,0.59,21.9
+Niemcewicza,FALSE,53.8,57.1,0.47,15.1
+Al. Jerozolimskie,FALSE,38.7,53.4,0.44,13
+Wawelska,FALSE,36.7,50.6,0.41,12.3
+Ryżowa,FALSE,47.4,49.9,0.41,13.2
+Koszykowa,FALSE,44.2,47,0.38,12.4
+Krzyckiego,FALSE,34.5,47,0.38,11.5
+Krucza,FALSE,51.3,38.1,0.31,11.6
+al. Krakowska,FALSE,23.4,31.4,0.26,7.7
+Chałubińskiego,FALSE,22.3,29.2,0.24,7.2
+Wschodu Słońca,FALSE,24.8,26.4,0.22,7
+Instalatorów,FALSE,19.9,25.6,0.21,6.4
+Prosta,FALSE,18.6,19.7,0.16,5.2
+Szpitalna,FALSE,22.5,16.8,0.14,5.1
+Bodycha,FALSE,15.5,16.4,0.13,4.3
+pl. Narutowicza,FALSE,9.2,12.7,0.1,3.1
+pl. Wilsona,FALSE,11.4,12.2,0.1,3.2
+Stalowa,FALSE,8.8,11.5,0.09,2.8
+Woronicza,FALSE,14.7,9.5,0.08,3.1
+Al. Ujazdowskie,FALSE,14.9,7.4,0.06,2.7
+Ludna,FALSE,13.6,6.6,0.05,2.5
+Anielewicza,FALSE,7.6,5.7,0.05,1.7
+Rodziewiczówny,FALSE,9.2,4.9,0.04,1.8
+Rozbrat,FALSE,5.9,4.4,0.04,1.3
+Światowida,FALSE,1.8,2.5,0.02,0.6
+Powsińska,FALSE,1.8,2.5,0.02,0.6
+Prystora,FALSE,2.2,1.9,0.02,0.6
+Żwirki i Wigury,FALSE,0.6,0.8,0.01,0.2
+Św. Bonifacego,FALSE,0.6,0.8,0.01,0.2
+Ostroroga,FALSE,11.4,0,0,1.1
+Kołomyjska,FALSE,35.7,0,0,3.5
+Ostrobramska,FALSE,7.1,0,0,0.7

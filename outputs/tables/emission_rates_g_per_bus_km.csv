@@ -1,0 +1,6 @@
+fleet_type,class_label,CO2,NOx,PM10_exhaust,PM10_nonexhaust,PM10
+K-np8-10m,Midi bus (8-10 m),743.484,6.0671,0.1286,0.097,0.2256
+M-np12m,Standard bus (12 m),1062.12,8.6673,0.1837,0.097,0.2807
+G-np18m,Articulated bus (18 m),1380.756,11.2675,0.2388,0.097,0.3358
+L-el12m,Electric bus (12 m),0,0,0,0.097,0.097
+H-el18m,Electric bus (18 m),0,0,0,0.097,0.097

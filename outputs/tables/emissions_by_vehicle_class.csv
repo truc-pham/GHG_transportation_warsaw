@@ -1,0 +1,6 @@
+class_label,powertrain,trips_per_day,bus_km_per_day,CO2_kg_per_day,NOx_kg_per_day,PM10_exhaust_g_per_day,PM10_nonexhaust_g_per_day,PM10_g_per_day
+Articulated bus (18 m),diesel,1832,3242.5,4477.1,36.54,774.3,314.5,1088.9
+Electric bus (18 m),electric,818,2370.3,0,0,0,229.9,229.9
+Standard bus (12 m),diesel,622,772.4,820.4,6.69,141.9,74.9,216.8
+Midi bus (8-10 m),diesel,176,193.5,143.9,1.17,24.9,18.8,43.6
+Electric bus (12 m),electric,57,93,0,0,0,9,9

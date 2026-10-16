@@ -1,0 +1,28 @@
+street,group,bus_street_km,bus_km_per_day,CO2_kg_per_day,NOx_kg_per_day,PM10_g_per_day,rank_in_city
+Al. Jerozolimskie,Al. Jerozolimskie,11.4,6700,5471.2,44.65,1596.1,5
+al. Prymasa Tysiąclecia,Connected street (full length),3.7,2604,2971.3,24.25,766.5,17
+Łopuszańska,Connected street (full length),2.2,1677,2308.2,18.84,561.9,23
+Szczęśliwicka,Connected street (full length),0.6,1089,1339.7,10.93,337.3,48
+Grójecka,Connected street (full length),3,1082,1304.6,10.65,330.6,52
+Sokołowskiego „Grzymały”,Connected street (full length),0.2,641,884.5,7.22,215.1,78
+Bitwy Warszawskiej 1920 r.,Connected street (full length),0.3,837,856.6,6.99,229.3,83
+Ryżowa,Connected street (full length),0.7,690,743.8,6.07,195.6,94
+Emilii Plater,Connected street (full length),0.5,562,702.2,5.73,176,102
+Marszałkowska,Connected street (full length),0.7,450,587.8,4.8,145.3,123
+Popularna,Connected street (full length),0.5,629,549,4.48,156,137
+Żelazna,Connected street (full length),0.8,414,485,3.96,124.1,155
+jezdnia płn. Dw. Centralnego,Connected street (full length),0,329,426.9,3.48,105.8,170
+al. Jana Pawła II,Connected street (full length),3.1,375,426.3,3.48,110.1,172
+pl. Trzech Krzyży,Connected street (full length),0.2,440,329.7,2.69,99.7,221
+Koszykowa,Connected street (full length),0.8,263,279,2.28,73.7,248
+Włodarzewska,Connected street (full length),0.8,274,204,1.67,61.9,305
+Opaczewska,Connected street (full length),0.2,104,127.8,1.04,32.2,372
+Nowy Świat,Connected street (full length),0.4,1160,116.8,0.95,132.7,387
+Krucza,Connected street (full length),0.4,123,91.1,0.74,27.6,414
+Chałubińskiego,Connected street (full length),,54,70.2,0.57,17.4,450
+Wschodu Słońca,Connected street (full length),0.2,47,50.4,0.41,13.3,486
+Szpitalna,Connected street (full length),,64,47.3,0.39,14.3,496
+Starodęby,Connected street (full length),,39,34.2,0.28,9.7,530
+Raszyńska,Connected street (full length),0.2,371,33,0.27,41.7,531
+Niemcewicza,Connected street (full length),0.8,27,28.6,0.23,7.5,549
+Kołomyjska,Connected street (full length),0,36,0,0,3.5,633
